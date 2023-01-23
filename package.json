@@ -1,6 +1,9 @@
 {
   "dependencies": {
+    "fs": "^0.0.1-security",
     "inquirer": "^9.1.4",
-    "ramda": "^0.28.0"
+    "node-cron": "^3.0.2",
+    "ramda": "^0.28.0",
+    "request-promise": "^4.2.6"
   }
 }
