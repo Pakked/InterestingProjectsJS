@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "inquirer": "^9.1.4"
+    "inquirer": "^9.1.4",
+    "ramda": "^0.28.0"
   }
 }
