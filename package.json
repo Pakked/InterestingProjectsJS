@@ -6,6 +6,7 @@
     "node-cron": "^3.0.2",
     "ramda": "^0.28.0",
     "request-promise": "^4.2.6",
-    "socket.io": "^4.5.4"
+    "socket.io": "^4.5.4",
+    "socket.io-client": "^4.5.4"
   }
 }
